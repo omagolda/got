@@ -8,6 +8,13 @@ Contains Gothic paradigms including: nouns, verbs, and adjectives.
 Source:
 - `got`: English Wiktionary
 
+## Statistics
+
+- **Verb lemmas:** 1,026
+- **Noun lemmas:** 1,036
+- **Adjective lemmas:** 300
+- **Total inflections:** 102,083
+
 ## Annotators
 
 Khuyagbaatar Batsuren
