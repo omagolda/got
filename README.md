@@ -45,8 +45,8 @@ Khuyagbaatar Batsuren
 LGSPEC1 - Strong (indefinite) inflection for adjective <br />
 LGSPEC2 - Weak (definite) inflection for adjective <br />
 
-## Shared Tasks
-
+## Validation
+![um-canonicalize: passed](https://img.shields.io/badge/um--canonicalize-passed-brightgreen.svg "um-canonicalize: passed")
 
 ## References
 ```
