@@ -42,8 +42,8 @@ Khuyagbaatar Batsuren
 þiwi	þiujōm	N;FEM;DAT;PL <br />
 
 ## Language Specifics
-LGSPEC1 - Strong (indefinite) inflection for adjective <br />
-LGSPEC2 - Weak (definite) inflection for adjective <br />
+LGSPEC01 - Strong (indefinite) inflection for adjective <br />
+LGSPEC02 - Weak (definite) inflection for adjective <br />
 
 ## Validation
 ![um-canonicalize: passed](https://img.shields.io/badge/um--canonicalize-passed-brightgreen.svg "um-canonicalize: passed")
